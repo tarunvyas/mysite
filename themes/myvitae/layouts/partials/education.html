@@ -1,0 +1,11 @@
+<div class="col-lg-6 col-sm-6 pd">
+    <p class="font300-heading">My Education</p>
+    {{ range .Site.Params.education }}
+    <div class="education_row">
+        <div class="dot"></div>
+        <h3>{{ .duration }}</h3>
+        <p>{{ .name }}</p>
+        <span>{{ .from }}</span>
+    </div>
+    {{ end }}
+</div>

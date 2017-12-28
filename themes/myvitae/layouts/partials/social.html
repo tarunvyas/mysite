@@ -1,0 +1,11 @@
+<section id="contact" >
+        <h2>Contact Me</h2>
+        <p><span class="font300">I am available for freelance jobs.</span> <br>
+          Please contact me and send me your questions and inquiries.</p>
+        <p class="font600"><a href="mailto:{{ .Site.Params.profile.email }}">{{ .Site.Params.profile.email }}</a> | {{ .Site.Params.profile.contact_number }} | {{ .Site.Params.profile.address }}</p>
+        <div class="social_icon"> 
+          {{ range .Site.Params.social }}
+          <a href="{{ .url }}" class="hvr-shutter-in-vertical" alt="{{ .name }}"><i class="fa {{ .icon }}"></i></a> 
+          {{ end }}
+        </div>
+      </section>

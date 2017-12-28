@@ -1,0 +1,12 @@
+<div id="clientsDashboard">
+  {{ range .Site.Params.happyclient }}       
+  <div class="first_box">
+    <div class="first_box_left"> <i class="{{ .icon}}"></i> </div>
+    <div class="counters">
+      <ul>
+        <li class="timer"><span class="count">{{ .total }}</span> {{ .name }}</li>
+      </ul>
+    </div>
+  </div>
+  {{ end }}
+</div>

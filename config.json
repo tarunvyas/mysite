@@ -1,0 +1,157 @@
+{
+    "baseURL":"http://tarunvyas.com/",
+    "defaultExtension":"html",
+    "uglyurls": "false",
+    "canonifyURLs": "true",
+    "languageCode":"en-us",
+    "publishDir": "docs",
+    "paginate": 10,
+    "title":"Tarun vyas",
+    "PublishDir": "docs",
+    "params": {
+        "profile": {
+            "name" :  "Tarun vyas",
+            "fname" :"Tarun",
+            "lname":"Vyas",
+            "description_small": "Tarun Vyas (born 15 October) is an Indian actor and Tv anchor. He is an alumnus of Rajasthan University Drama Department, Jaipur.",
+            "description": "Vyasssss has appeared in critically and commercially successful Hindi films 'Shudh desi romance'. Before acting in film industry, he began his film career in 2011, with Voice dubbing artist position in bollywood with successful films such as Hum Hai rahi Car k, Pal chin, Kya super cool hai hum, Joker, Raaz 3, Jism2, Wasseypur, Ferrari ki sawaari, Dabang-2, Krish 3, Boss, Yeh jawani hai deewani, Jai Ho. Vyas is mimic voice of Bollywood actor Akshay kumar.",
+            "contact_number": "(+91) 8769000600",
+            "email": "hello@tarunvyas.com",
+            "resume": "/images/profile/avatar.jpg",
+            "avatar": "/images/mainpic.jpg",
+            "avatar_about": "/images/avatar_about.jpg",
+            "hobbies": ["Soccer","Skiing","Running","Golf","Guitar"],
+            "address": "Mumbai, India"
+        },
+        "skills": [
+            { "name":"Acting","percentage":"80"},
+            { "name":"Anchor","percentage":"40"},
+            { "name":"Radio Jocky","percentage":"50"},
+            { "name":"Sound Design","percentage":"60"},
+            { "name":"Photography","percentage":"90"} 
+        ],
+        "happyclient": [
+            { "name": "Cups of Coffee","icon":"fa fa-coffee","total":"3256"},
+            { "name": "Hours Worked","icon":"fa fa-clock-o","total":"5832"},
+            { "name": "Projects Done","icon":"fa fa-trophy","total":"2562"},
+            { "name": "Happy Clients","icon":"fa fa-smile-o","total":"345"}
+        ],
+        "social": [
+            { "name": "Email","icon":"fa fa-envelope","url": "mailto:tarubctas@live.com" },
+            { "name": "Twitter","icon":"fa fa-twitter","url": "https://twitter.com/anandvyaas"},
+            { "name": "LinkedIn","icon":"fa fa-linkedin","url": "https://www.linkedin.com/in/anandvyaas"},
+            { "name": "Instagram","icon":"fa fa-instagram","url": "https://www.instagram.com/anandvyaas"},
+            { "name": "Github","icon":"fa fa-github","url": "https://github.com/anandvyas"},
+            { "name": "StackOverflow","icon":"fa fa-stack-overflow","url": "https://stackoverflow.com/users/8208060/anand-vyas"}
+        ],
+        "education": [
+            { 
+                "name": "Master in Computer Application (M.C.A)",
+                "from": "Rajasthan University",
+                "duration":"Oct 2017 - Oct 2019" 
+            },
+            { 
+                "name": "Bachelor's Degree",
+                "from": "Rajasthan University",
+                "duration":"Oct 2017 - Oct 2019" 
+            }
+        ],
+        "experience": [
+            { 
+                "name": "Master in Computer Application (M.C.A)",
+                "from": "Rajasthan University",
+                "duration":"Oct 2017 - Oct 2019" 
+            },
+            { 
+                "name": "Bachelor's Degree",
+                "from": "Rajasthan University",
+                "duration":"Oct 2017 - Oct 2019" 
+            }
+        ],
+        "languages": [
+            { "name": "English", "percentage":"90" },
+            { "name": "Hindi", "percentage":"100" }
+        ],
+        "albums":[
+            {
+                "name":"Event Hosting","description":"Event hosted by Me :)","imagepath":"/images/albums/event_hosting/2.JPG",
+                "images":[
+                    { "name":"Modeling","description":"","imagepath":"/images/albums/event_hosting/1.JPG" },
+                    { "name":"Modeling","description":"","imagepath":"/images/albums/event_hosting/2.JPG" },
+                    { "name":"Modeling","description":"","imagepath":"/images/albums/event_hosting/3.JPG" },
+                    { "name":"Modeling","description":"","imagepath":"/images/albums/event_hosting/4.JPG" },
+                    { "name":"Modeling","description":"","imagepath":"/images/albums/event_hosting/5.JPG" },
+                    { "name":"Modeling","description":"","imagepath":"/images/albums/event_hosting/6.JPG" },
+                    { "name":"Modeling","description":"","imagepath":"/images/albums/event_hosting/7.JPG" },
+                    { "name":"Modeling","description":"","imagepath":"/images/albums/event_hosting/8.JPG" },
+                    { "name":"Modeling","description":"","imagepath":"/images/albums/event_hosting/9.JPG" },
+                    { "name":"Modeling","description":"","imagepath":"/images/albums/event_hosting/10.JPG" },
+                    { "name":"Modeling","description":"","imagepath":"/images/albums/event_hosting/11.JPG" },
+                    { "name":"Modeling","description":"","imagepath":"/images/albums/event_hosting/12.JPG" },
+                    { "name":"Modeling","description":"","imagepath":"/images/albums/event_hosting/13.JPG" }
+                ]
+            },
+            {
+                "name":"Shuddh Desi Romance","description":"Movie","imagepath":"/images/albums/shuddh_desi_romance/6.jpg",
+                "images":[
+                    { "name":"Movie","description":"","imagepath":"/images/albums/shuddh_desi_romance/1.jpg" },
+                    { "name":"Movie","description":"","imagepath":"/images/albums/shuddh_desi_romance/2.jpg" },
+                    { "name":"Movie","description":"","imagepath":"/images/albums/shuddh_desi_romance/3.jpg" },
+                    { "name":"Movie","description":"","imagepath":"/images/albums/shuddh_desi_romance/4.jpg" },
+                    { "name":"Movie","description":"","imagepath":"/images/albums/shuddh_desi_romance/5.jpg" },
+                    { "name":"Movie","description":"","imagepath":"/images/albums/shuddh_desi_romance/13.jpg" },
+                    { "name":"Movie","description":"","imagepath":"/images/albums/shuddh_desi_romance/7.jpg" },
+                    { "name":"Movie","description":"","imagepath":"/images/albums/shuddh_desi_romance/8.jpg" },
+                    { "name":"Movie","description":"","imagepath":"/images/albums/shuddh_desi_romance/9.jpg" },
+                    { "name":"Movie","description":"","imagepath":"/images/albums/shuddh_desi_romance/10.jpg" },
+                    { "name":"Movie","description":"","imagepath":"/images/albums/shuddh_desi_romance/11.jpg" },
+                    { "name":"Movie","description":"","imagepath":"/images/albums/shuddh_desi_romance/12.jpg" },
+                    { "name":"Movie","description":"","imagepath":"/images/albums/shuddh_desi_romance/6.jpg" }
+                ]
+            },
+            {
+                "name":"Chai Pe Chutkule","description":"Mentor","imagepath":"/images/albums/chai_pe_chutkule/4.jpg",
+                "images":[
+                    { "name":"Mentor","description":"","imagepath":"/images/albums/chai_pe_chutkule/1.jpg" },
+                    { "name":"Mentor","description":"","imagepath":"/images/albums/chai_pe_chutkule/2.jpg" },
+                    { "name":"Mentor","description":"","imagepath":"/images/albums/chai_pe_chutkule/3.jpg" },
+                    { "name":"Mentor","description":"","imagepath":"/images/albums/chai_pe_chutkule/5.jpg" },
+                    { "name":"Mentor","description":"","imagepath":"/images/albums/chai_pe_chutkule/6.jpg" },
+                    { "name":"Mentor","description":"","imagepath":"/images/albums/chai_pe_chutkule/7.jpg" },
+                    { "name":"Mentor","description":"","imagepath":"/images/albums/chai_pe_chutkule/8.jpg" },
+                    { "name":"Mentor","description":"","imagepath":"/images/albums/chai_pe_chutkule/9.jpg" },
+                    { "name":"Mentor","description":"","imagepath":"/images/albums/chai_pe_chutkule/10.jpg" },
+                    { "name":"Mentor","description":"","imagepath":"/images/albums/chai_pe_chutkule/11.jpg" },
+                    { "name":"Mentor","description":"","imagepath":"/images/albums/chai_pe_chutkule/4.jpg" }
+                ]
+            },
+            {
+                "name":"Radio Shows","description":"Radio","imagepath":"/images/albums/radio_shows/2.jpg",
+                "images":[
+                    { "name":"Radio","description":"","imagepath":"/images/albums/radio_shows/1.jpg" },
+                    { "name":"Radio","description":"","imagepath":"/images/albums/radio_shows/4.jpg" },
+                    { "name":"Radio","description":"","imagepath":"/images/albums/radio_shows/3.jpg" },
+                    { "name":"Radio","description":"","imagepath":"/images/albums/radio_shows/5.jpg" },
+                    { "name":"Radio","description":"","imagepath":"/images/albums/radio_shows/6.jpg" },
+                    { "name":"Radio","description":"","imagepath":"/images/albums/radio_shows/7.jpg" },
+                    { "name":"Radio","description":"","imagepath":"/images/albums/radio_shows/2.jpg" }
+                ]
+            },
+            {
+                "name":"TV Shows","description":"Tv Show Darti dhora ri...","imagepath":"/images/albums/tv_shows/6.jpg",
+                "images":[
+                    { "name":"TV_Show","description":"","imagepath":"/images/albums/tv_shows/1.jpg" },
+                    { "name":"TV_Show","description":"","imagepath":"/images/albums/tv_shows/2.jpg" },
+                    { "name":"TV_Show","description":"","imagepath":"/images/albums/tv_shows/3.jpg" },
+                    { "name":"TV_Show","description":"","imagepath":"/images/albums/tv_shows/4.jpg" },
+                    { "name":"TV_Show","description":"","imagepath":"/images/albums/tv_shows/5.jpg" },
+                    { "name":"TV_Show","description":"","imagepath":"/images/albums/tv_shows/7.jpg" },
+                    { "name":"TV_Show","description":"","imagepath":"/images/albums/tv_shows/8.jpg" },
+                    { "name":"TV_Show","description":"","imagepath":"/images/albums/tv_shows/9.jpg" },
+                    { "name":"TV_Show","description":"","imagepath":"/images/albums/tv_shows/10.jpg" },
+                    { "name":"TV_Show","description":"","imagepath":"/images/albums/tv_shows/6.jpg" }
+                ]
+            }
+        ]
+    }
+}

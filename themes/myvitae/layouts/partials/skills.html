@@ -1,0 +1,16 @@
+<section id="skills" class="pad200">
+    <h2>My Skills</h2>
+    <ul class="bar">
+      {{ range .Site.Params.skills }}
+      <li>
+        <p>{{ .name }}</p>
+        <div class="bar-wrap">
+          <span data-width="{{ .percentage }}">
+            <strong class="value">{{ .percentage }}</strong>
+            <b>%</b>
+          </span>
+        </div>
+      </li>
+      {{ end }}
+    </ul>
+  </section>

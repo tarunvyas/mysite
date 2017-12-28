@@ -1,0 +1,26 @@
+<div class="row">
+        <div class="col-lg-12">
+            <div class="portfoliosec">
+                <div class="gallery clearfix">
+                    <div class="grid">
+                        <div class="row">
+                            {{ range .Site.Params.albums }}
+                            <div class="col-lg-4 col-xs-6">
+                                <figure class="effect-apollo">
+                                    <img src="{{ .imagepath }}" alt="{{ .name }}" />
+                                    <h3>{{ .name }}</h3>
+                                    <p> {{ .description }}</p>
+                                    {{ range $key, $value := .images }}
+                                    <figcaption>
+                                        <a class="fancybox"  href="{{ $value.imagepath }}" data-fancybox-group="{{ .name }}" title="{{ $value.description }}"></a>
+                                    </figcaption>
+                                    {{ end }}
+                                </figure>
+                            </div>
+                            {{ end }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
