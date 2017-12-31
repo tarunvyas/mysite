@@ -14,7 +14,7 @@
             "fname" :"Tarun",
             "lname":"Vyas",
             "description_small": "Tarun Vyas (born 15 October) is an Indian actor and Tv anchor. He is an alumnus of Rajasthan University Drama Department, Jaipur.",
-            "description": "Vyasssss has appeared in critically and commercially successful Hindi films 'Shudh desi romance'. Before acting in film industry, he began his film career in 2011, with Voice dubbing artist position in bollywood with successful films such as Hum Hai rahi Car k, Pal chin, Kya super cool hai hum, Joker, Raaz 3, Jism2, Wasseypur, Ferrari ki sawaari, Dabang-2, Krish 3, Boss, Yeh jawani hai deewani, Jai Ho. Vyas is mimic voice of Bollywood actor Akshay kumar.",
+            "description": "Tarun has appeared in critically and commercially successful Hindi films 'Shudh desi romance'. Before acting in film industry, he has apperaed in tv serials like santoshi ma &TV, Collector Saab Zee TV and many others, he began his film career in 2011, with Voice dubbing artist position in bollywood with successful films such as Hum Hai rahi Car k, Pal chin, Kya super cool hai hum, Joker, Raaz 3, Jism2, Wasseypur, Ferrari ki sawaari, Dabang-2, Krish 3, Boss, Yeh jawani hai deewani, Jai Ho. Vyas is mimic voice of Bollywood actor Akshay kumar. Vyas was radio jockey for Fm radio stations like Radio Mirchi,Big Fm,All india Radio.",
             "contact_number": "(+91) 8769000600",
             "email": "hello@tarunvyas.com",
             "resume": "/images/profile/avatar.jpg",
@@ -25,10 +25,14 @@
         },
         "skills": [
             { "name":"Acting","percentage":"80"},
-            { "name":"Anchor","percentage":"40"},
+            { "name":"Anchor","percentage":"75"},
             { "name":"Radio Jocky","percentage":"50"},
+            { "name":"Voice Dubbing","percentage":"70"},
             { "name":"Sound Design","percentage":"60"},
-            { "name":"Photography","percentage":"90"} 
+            { "name":"Photography","percentage":"50"},
+            { "name":"Martial Art","percentage":"70"},
+            { "name":"Guitar Player","percentage":"50"}
+              
         ],
         "happyclient": [
             { "name": "Cups of Coffee","icon":"fa fa-coffee","total":"3256"},
@@ -37,36 +41,68 @@
             { "name": "Happy Clients","icon":"fa fa-smile-o","total":"345"}
         ],
         "social": [
-            { "name": "Email","icon":"fa fa-envelope","url": "mailto:tarubctas@live.com" },
-            { "name": "Twitter","icon":"fa fa-twitter","url": "https://twitter.com/anandvyaas"},
-            { "name": "LinkedIn","icon":"fa fa-linkedin","url": "https://www.linkedin.com/in/anandvyaas"},
-            { "name": "Instagram","icon":"fa fa-instagram","url": "https://www.instagram.com/anandvyaas"},
-            { "name": "Github","icon":"fa fa-github","url": "https://github.com/anandvyas"},
-            { "name": "StackOverflow","icon":"fa fa-stack-overflow","url": "https://stackoverflow.com/users/8208060/anand-vyas"}
+            { "name": "Email","icon":"fa fa-envelope","url": "mailto:actortarunvyas@gmail.com" },
+            { "name": "Twitter","icon":"fa fa-twitter","url": "https://twitter.com/actortarunvyas"},
+            { "name": "LinkedIn","icon":"fa fa-linkedin","url": "https://www.linkedin.com/in/tarun-kumar-vyas-11b62a13/"},
+            { "name": "Instagram","icon":"fa fa-instagram","url": "http://www.pictame.com/user/actortarunvyas/1722174160"},
+            { "name": "Facebook","icon":"fa fa-facebook","url": "https://www.facebook.com/OFFICIALFANPAGETARUNVYAS/"},
+            { "name": "IMDB","icon":"fa fa-imdb","url": "http://www.imdb.com/name/nm6071677/"}            
         ],
         "education": [
             { 
-                "name": "Master in Computer Application (M.C.A)",
+                "name": "Master in Dramatics (M.A)",
                 "from": "Rajasthan University",
-                "duration":"Oct 2017 - Oct 2019" 
+                "duration":"Year 2017" 
             },
             { 
-                "name": "Bachelor's Degree",
+                "name": "Diploma in Mass Communication(Electronic media)",
+                "from": "Rajendra Prasad University(Mumbai)",
+                "duration":"Year 2001" 
+            },
+            { 
+                "name": "Master in Commerce-ABST (M.Com)",
                 "from": "Rajasthan University",
-                "duration":"Oct 2017 - Oct 2019" 
+                "duration":"Year 2000" 
             }
         ],
         "experience": [
             { 
-                "name": "Master in Computer Application (M.C.A)",
-                "from": "Rajasthan University",
-                "duration":"Oct 2017 - Oct 2019" 
+                "name": "(Actor)",
+                "from": "Yashraj Films (Shuddh Desi Romance)",
+                "duration":"Bollywood Moives" 
             },
             { 
-                "name": "Bachelor's Degree",
-                "from": "Rajasthan University",
-                "duration":"Oct 2017 - Oct 2019" 
+                "name": "(Voice Dubbing)",
+                "from": "Baahubali,<br> Krissh-3,<br>Raaz-3,<br> Kya Superkool hai Hum,<br> Dabang,<br> Boss,<br> Jism-2,<br>Ferrari ki Sawari,<br>Joker,<br>250+ others",
+                "duration":"Bollywood Movie Dubbing" 
+            },
+            { 
+                "name": "(Actor)",
+                "from": "Zee TV (Collector Sahab),<br>&TV (Santoshi Maa),<br>Big magic (Hum Paanch-phir se)",                
+                "duration":"TV Serials" 
+            },
+            { 
+                "name": "(Anchor & Mentor)",
+                "from": "SAB TV (Chai pe Chutkule),<br>Sony Max2 (Family No.1)",
+                "duration":"TV Shows" 
+            },
+            { 
+                "name": "(Live TV Host)",
+                "from": "DD Rajasthan (Suprabhat Dharti Dhora ri),<br>DD Rajasthan (Jag Dekhi-Art & culture)",
+                "duration":"TV Anchoring" 
+            },
+            { 
+                "name": "(Radio Jockey & P.H)",
+                "from": "98.3 FM (Radio Mirchi),<br>92.7 FM (Big FM),<br>94.3 FM (MY FM),<br> 100.3 FM (FM RPC)",
+                "duration":"FM Radio" 
+            },
+            { 
+                "name": "(Drama Voice)",
+                "from": "150+ Radio Drama's (All India Radio)",
+                "duration":"Radio Drama" 
             }
+            
+            
         ],
         "languages": [
             { "name": "English", "percentage":"90" },
