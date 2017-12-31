@@ -274,7 +274,7 @@ h1 {
 }
 .side-right {
 	right: 0;
-	background: url(http://tarunvyas.com/images/mainpic.jpg) no-repeat center top;
+	background: url(/images/mainpic.jpg) no-repeat center top;
 	background-size: cover;/* avoid gap */
 }
 .open-right .portfolio {
@@ -1150,7 +1150,7 @@ h1 {
 }
 .open-right .side-right {
 	right: 0;
-	background: url(http://tarunvyas.com/images/blurpic.png) no-repeat center top;
+	background: url(/images/blurpic.png) no-repeat center top;
 	background-size: cover;
 }
 /*8. Open right section end here */ 
