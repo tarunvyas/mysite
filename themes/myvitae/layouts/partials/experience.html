@@ -4,8 +4,8 @@
     <div class="education_row">
         <div class="dot"></div>
         <h3>{{ .duration }}</h3>
-        <p>{{ .name }}</p>
-        <span>{{ .from }}</span>
+        <p>{{ .name  | safeHTML }}</p>
+        <span>{{ .from | safeHTML}}</span>
     </div>
     {{ end }}
 </div>
