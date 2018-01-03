@@ -46,7 +46,7 @@
             { "name": "LinkedIn","icon":"fa fa-linkedin","url": "https://www.linkedin.com/in/tarun-kumar-vyas-11b62a13/"},
             { "name": "Instagram","icon":"fa fa-instagram","url": "http://www.pictame.com/user/actortarunvyas/1722174160"},
             { "name": "Facebook","icon":"fa fa-facebook","url": "https://www.facebook.com/OFFICIALFANPAGETARUNVYAS/"},
-            { "name": "IMDB","icon":"fa fa-imdb","url": "http://www.imdb.com/name/nm6071677/"}            
+            { "name": "Imdb","icon":"fa fa-imdb","url": "http://www.imdb.com/name/nm6071677/"}            
         ],
         "education": [
             { 
@@ -110,82 +110,225 @@
         ],
         "albums":[
             {
-                "name":"Event Hosting","description":"Event hosted by Me :)","imagepath":"/images/albums/event_hosting/2.JPG",
+                "name":"Modeling","description":"Modeling Images :)","imagepath":"/images/albums/modeling/1.jpg",
                 "images":[
-                    { "name":"Modeling","description":"","imagepath":"/images/albums/event_hosting/1.JPG" },
-                    { "name":"Modeling","description":"","imagepath":"/images/albums/event_hosting/2.JPG" },
-                    { "name":"Modeling","description":"","imagepath":"/images/albums/event_hosting/3.JPG" },
-                    { "name":"Modeling","description":"","imagepath":"/images/albums/event_hosting/4.JPG" },
-                    { "name":"Modeling","description":"","imagepath":"/images/albums/event_hosting/5.JPG" },
-                    { "name":"Modeling","description":"","imagepath":"/images/albums/event_hosting/6.JPG" },
-                    { "name":"Modeling","description":"","imagepath":"/images/albums/event_hosting/7.JPG" },
-                    { "name":"Modeling","description":"","imagepath":"/images/albums/event_hosting/8.JPG" },
-                    { "name":"Modeling","description":"","imagepath":"/images/albums/event_hosting/9.JPG" },
-                    { "name":"Modeling","description":"","imagepath":"/images/albums/event_hosting/10.JPG" },
-                    { "name":"Modeling","description":"","imagepath":"/images/albums/event_hosting/11.JPG" },
-                    { "name":"Modeling","description":"","imagepath":"/images/albums/event_hosting/12.JPG" },
-                    { "name":"Modeling","description":"","imagepath":"/images/albums/event_hosting/13.JPG" }
+                    { "name":"Modeling","description":"","imagepath":"/images/albums/modeling/5.jpg" },
+                    { "name":"Modeling","description":"","imagepath":"/images/albums/modeling/2.jpg" },
+                    { "name":"Modeling","description":"","imagepath":"/images/albums/modeling/3.jpg" },
+                    { "name":"Modeling","description":"","imagepath":"/images/albums/modeling/4.jpg" },
+                    { "name":"Modeling","description":"","imagepath":"/images/albums/modeling/1.jpg" }
                 ]
             },
             {
-                "name":"Shuddh Desi Romance","description":"Movie","imagepath":"/images/albums/shuddh_desi_romance/6.jpg",
+                "name":"Modeling","description":"Modeling Images :)","imagepath":"/images/albums/modeling/6.jpg",
                 "images":[
-                    { "name":"Movie","description":"","imagepath":"/images/albums/shuddh_desi_romance/1.jpg" },
-                    { "name":"Movie","description":"","imagepath":"/images/albums/shuddh_desi_romance/2.jpg" },
-                    { "name":"Movie","description":"","imagepath":"/images/albums/shuddh_desi_romance/3.jpg" },
-                    { "name":"Movie","description":"","imagepath":"/images/albums/shuddh_desi_romance/4.jpg" },
-                    { "name":"Movie","description":"","imagepath":"/images/albums/shuddh_desi_romance/5.jpg" },
-                    { "name":"Movie","description":"","imagepath":"/images/albums/shuddh_desi_romance/13.jpg" },
-                    { "name":"Movie","description":"","imagepath":"/images/albums/shuddh_desi_romance/7.jpg" },
-                    { "name":"Movie","description":"","imagepath":"/images/albums/shuddh_desi_romance/8.jpg" },
-                    { "name":"Movie","description":"","imagepath":"/images/albums/shuddh_desi_romance/9.jpg" },
-                    { "name":"Movie","description":"","imagepath":"/images/albums/shuddh_desi_romance/10.jpg" },
-                    { "name":"Movie","description":"","imagepath":"/images/albums/shuddh_desi_romance/11.jpg" },
-                    { "name":"Movie","description":"","imagepath":"/images/albums/shuddh_desi_romance/12.jpg" },
-                    { "name":"Movie","description":"","imagepath":"/images/albums/shuddh_desi_romance/6.jpg" }
+                    { "name":"Modeling1","description":"","imagepath":"/images/albums/modeling/7.jpg" },
+                    { "name":"Modeling1","description":"","imagepath":"/images/albums/modeling/8.jpg" },
+                    { "name":"Modeling1","description":"","imagepath":"/images/albums/modeling/9.jpg" },
+                    { "name":"Modeling1","description":"","imagepath":"/images/albums/modeling/10.jpg" },
+                    { "name":"Modeling1","description":"","imagepath":"/images/albums/modeling/6.jpg" }
                 ]
             },
             {
-                "name":"Chai Pe Chutkule","description":"Mentor","imagepath":"/images/albums/chai_pe_chutkule/4.jpg",
+                "name":"Modeling","description":"Modeling Images :)","imagepath":"/images/albums/modeling/14.jpg",
                 "images":[
-                    { "name":"Mentor","description":"","imagepath":"/images/albums/chai_pe_chutkule/1.jpg" },
-                    { "name":"Mentor","description":"","imagepath":"/images/albums/chai_pe_chutkule/2.jpg" },
-                    { "name":"Mentor","description":"","imagepath":"/images/albums/chai_pe_chutkule/3.jpg" },
-                    { "name":"Mentor","description":"","imagepath":"/images/albums/chai_pe_chutkule/5.jpg" },
-                    { "name":"Mentor","description":"","imagepath":"/images/albums/chai_pe_chutkule/6.jpg" },
-                    { "name":"Mentor","description":"","imagepath":"/images/albums/chai_pe_chutkule/7.jpg" },
-                    { "name":"Mentor","description":"","imagepath":"/images/albums/chai_pe_chutkule/8.jpg" },
-                    { "name":"Mentor","description":"","imagepath":"/images/albums/chai_pe_chutkule/9.jpg" },
-                    { "name":"Mentor","description":"","imagepath":"/images/albums/chai_pe_chutkule/10.jpg" },
-                    { "name":"Mentor","description":"","imagepath":"/images/albums/chai_pe_chutkule/11.jpg" },
-                    { "name":"Mentor","description":"","imagepath":"/images/albums/chai_pe_chutkule/4.jpg" }
+                    { "name":"Modeling2","description":"","imagepath":"/images/albums/modeling/11.jpg" },
+                    { "name":"Modeling2","description":"","imagepath":"/images/albums/modeling/12.jpg" },
+                    { "name":"Modeling2","description":"","imagepath":"/images/albums/modeling/13.jpg" },
+                    { "name":"Modeling2","description":"","imagepath":"/images/albums/modeling/15.jpg" },
+                    { "name":"Modeling2","description":"","imagepath":"/images/albums/modeling/14.jpg" }
                 ]
             },
             {
-                "name":"Radio Shows","description":"Radio","imagepath":"/images/albums/radio_shows/2.jpg",
+                "name":"Modeling","description":"Modeling Images :)","imagepath":"/images/albums/modeling/7.jpg",
                 "images":[
-                    { "name":"Radio","description":"","imagepath":"/images/albums/radio_shows/1.jpg" },
-                    { "name":"Radio","description":"","imagepath":"/images/albums/radio_shows/4.jpg" },
-                    { "name":"Radio","description":"","imagepath":"/images/albums/radio_shows/3.jpg" },
-                    { "name":"Radio","description":"","imagepath":"/images/albums/radio_shows/5.jpg" },
-                    { "name":"Radio","description":"","imagepath":"/images/albums/radio_shows/6.jpg" },
-                    { "name":"Radio","description":"","imagepath":"/images/albums/radio_shows/7.jpg" },
-                    { "name":"Radio","description":"","imagepath":"/images/albums/radio_shows/2.jpg" }
+                    { "name":"Modeling3","description":"","imagepath":"/images/albums/modeling/16.jpg" },
+                    { "name":"Modeling3","description":"","imagepath":"/images/albums/modeling/17.jpg" },
+                    { "name":"Modeling3","description":"","imagepath":"/images/albums/modeling/18.jpg" },
+                    { "name":"Modeling3","description":"","imagepath":"/images/albums/modeling/19.jpg" },
+                    { "name":"Modeling3","description":"","imagepath":"/images/albums/modeling/7.jpg" }
                 ]
             },
             {
-                "name":"TV Shows","description":"Tv Show Darti dhora ri...","imagepath":"/images/albums/tv_shows/6.jpg",
+                "name":"Modeling","description":"Modeling Images :)","imagepath":"/images/albums/modeling/9.jpg",
                 "images":[
-                    { "name":"TV_Show","description":"","imagepath":"/images/albums/tv_shows/1.jpg" },
-                    { "name":"TV_Show","description":"","imagepath":"/images/albums/tv_shows/2.jpg" },
-                    { "name":"TV_Show","description":"","imagepath":"/images/albums/tv_shows/3.jpg" },
-                    { "name":"TV_Show","description":"","imagepath":"/images/albums/tv_shows/4.jpg" },
-                    { "name":"TV_Show","description":"","imagepath":"/images/albums/tv_shows/5.jpg" },
-                    { "name":"TV_Show","description":"","imagepath":"/images/albums/tv_shows/7.jpg" },
-                    { "name":"TV_Show","description":"","imagepath":"/images/albums/tv_shows/8.jpg" },
-                    { "name":"TV_Show","description":"","imagepath":"/images/albums/tv_shows/9.jpg" },
-                    { "name":"TV_Show","description":"","imagepath":"/images/albums/tv_shows/10.jpg" },
-                    { "name":"TV_Show","description":"","imagepath":"/images/albums/tv_shows/6.jpg" }
+                    { "name":"Modeling4","description":"","imagepath":"/images/albums/modeling/20.jpg" },
+                    { "name":"Modeling4","description":"","imagepath":"/images/albums/modeling/21.jpg" },
+                    { "name":"Modeling4","description":"","imagepath":"/images/albums/modeling/22.jpg" },
+                    { "name":"Modeling4","description":"","imagepath":"/images/albums/modeling/23.jpg" },
+                    { "name":"Modeling4","description":"","imagepath":"/images/albums/modeling/9.jpg" }
+                ]
+            },
+            {
+                "name":"Modeling","description":"Modeling Images :)","imagepath":"/images/albums/modeling/15.jpg",
+                "images":[
+                    { "name":"Modeling5","description":"","imagepath":"/images/albums/modeling/24.jpg" },
+                    { "name":"Modeling5","description":"","imagepath":"/images/albums/modeling/25.jpg" },
+                    { "name":"Modeling5","description":"","imagepath":"/images/albums/modeling/26.jpg" },
+                    { "name":"Modeling5","description":"","imagepath":"/images/albums/modeling/27.jpg" },
+                    { "name":"Modeling5","description":"","imagepath":"/images/albums/modeling/28.jpg" },
+                    { "name":"Modeling5","description":"","imagepath":"/images/albums/modeling/29.jpg" },
+                    { "name":"Modeling5","description":"","imagepath":"/images/albums/modeling/30.jpg" },
+                    { "name":"Modeling5","description":"","imagepath":"/images/albums/modeling/15.jpg" }
+                ]
+            },
+            {
+                "name":"Radio Shows","description":"Radio Shows","imagepath":"/images/albums/radio_shows/main.jpg",
+                "images":[
+                    { "name":"Radio Shows","description":"","imagepath":"/images/albums/radio_shows/1.jpg" },
+                    { "name":"Radio Shows","description":"","imagepath":"/images/albums/radio_shows/2.jpg" },
+                    { "name":"Radio Shows","description":"","imagepath":"/images/albums/radio_shows/3.jpg" },
+                    { "name":"Radio Shows","description":"","imagepath":"/images/albums/radio_shows/4.jpg" },
+                    { "name":"Radio Shows","description":"","imagepath":"/images/albums/radio_shows/5.jpg" },
+                    { "name":"Radio Shows","description":"","imagepath":"/images/albums/radio_shows/6.jpg" },
+                    { "name":"Radio Shows","description":"","imagepath":"/images/albums/radio_shows/7.jpg" },
+                    { "name":"Radio Shows","description":"","imagepath":"/images/albums/radio_shows/8.jpg" },
+                    { "name":"Radio Shows","description":"","imagepath":"/images/albums/radio_shows/9.jpg" },
+                    { "name":"Radio Shows","description":"","imagepath":"/images/albums/radio_shows/10.jpg" },
+                    { "name":"Radio Shows","description":"","imagepath":"/images/albums/radio_shows/12.jpg" },
+                    { "name":"Radio Shows","description":"","imagepath":"/images/albums/radio_shows/13.jpg" }
+                ]
+            },
+            {
+                "name":"Sab TV","description":"Sab TV","imagepath":"/images/albums/sab_tv_cpc/1.jpg",
+                "images":[
+                    { "name":"Sab TV","description":"","imagepath":"/images/albums/sab_tv_cpc/2.jpg" },
+                    { "name":"Sab TV","description":"","imagepath":"/images/albums/sab_tv_cpc/3.jpg" },
+                    { "name":"Sab TV","description":"","imagepath":"/images/albums/sab_tv_cpc/4.jpg" },
+                    { "name":"Sab TV","description":"","imagepath":"/images/albums/sab_tv_cpc/5.jpg" },
+                    { "name":"Sab TV","description":"","imagepath":"/images/albums/sab_tv_cpc/6.jpg" },
+                    { "name":"Sab TV","description":"","imagepath":"/images/albums/sab_tv_cpc/1.jpg" }
+                ]
+            },
+            {
+                "name":"Shuddh desi romance","description":"Shuddh desi romance","imagepath":"/images/albums/shuddh_desi_romance/1.jpg",
+                "images":[
+                    { "name":"Shuddh desi romance","description":"","imagepath":"/images/albums/shuddh_desi_romance/2.jpg" },
+                    { "name":"Shuddh desi romance","description":"","imagepath":"/images/albums/shuddh_desi_romance/3.jpg" },
+                    { "name":"Shuddh desi romance","description":"","imagepath":"/images/albums/shuddh_desi_romance/4.jpg" },
+                    { "name":"Shuddh desi romance","description":"","imagepath":"/images/albums/shuddh_desi_romance/5.jpg" },
+                    { "name":"Shuddh desi romance","description":"","imagepath":"/images/albums/shuddh_desi_romance/6.jpg" },
+                    { "name":"Shuddh desi romance","description":"","imagepath":"/images/albums/shuddh_desi_romance/7.jpg" },
+                    { "name":"Shuddh desi romance","description":"","imagepath":"/images/albums/shuddh_desi_romance/8.jpg" },
+                    { "name":"Shuddh desi romance","description":"","imagepath":"/images/albums/shuddh_desi_romance/9.jpg" },
+                    { "name":"Shuddh desi romance","description":"","imagepath":"/images/albums/shuddh_desi_romance/10.jpg" },
+                    { "name":"Shuddh desi romance","description":"","imagepath":"/images/albums/shuddh_desi_romance/11.jpg" },
+                    { "name":"Shuddh desi romance","description":"","imagepath":"/images/albums/shuddh_desi_romance/12.jpg" },
+                    { "name":"Shuddh desi romance","description":"","imagepath":"/images/albums/shuddh_desi_romance/13.jpg" },
+                    { "name":"Shuddh desi romance","description":"","imagepath":"/images/albums/shuddh_desi_romance/14.jpg" },
+                    { "name":"Shuddh desi romance","description":"","imagepath":"/images/albums/shuddh_desi_romance/1.jpg" }
+                ]
+            },
+            {
+                "name":"Suprabhat Dharti Dhora Ri","description":"Suprabhat Dharti Dhora Ri","imagepath":"/images/albums/suprabhat_dharti_dhora_ri/14.jpg",
+                "images":[
+                    { "name":"Suprabhat Dharti Dhora Ri","description":"","imagepath":"/images/albums/suprabhat_dharti_dhora_ri/2.jpg" },
+                    { "name":"Suprabhat Dharti Dhora Ri","description":"","imagepath":"/images/albums/suprabhat_dharti_dhora_ri/3.jpg" },
+                    { "name":"Suprabhat Dharti Dhora Ri","description":"","imagepath":"/images/albums/suprabhat_dharti_dhora_ri/4.jpg" },
+                    { "name":"Suprabhat Dharti Dhora Ri","description":"","imagepath":"/images/albums/suprabhat_dharti_dhora_ri/1.jpg" },
+                    { "name":"Suprabhat Dharti Dhora Ri","description":"","imagepath":"/images/albums/suprabhat_dharti_dhora_ri/6.jpg" },
+                    { "name":"Suprabhat Dharti Dhora Ri","description":"","imagepath":"/images/albums/suprabhat_dharti_dhora_ri/7.jpg" },
+                    { "name":"Suprabhat Dharti Dhora Ri","description":"","imagepath":"/images/albums/suprabhat_dharti_dhora_ri/8.jpg" },
+                    { "name":"Suprabhat Dharti Dhora Ri","description":"","imagepath":"/images/albums/suprabhat_dharti_dhora_ri/9.jpg" },
+                    { "name":"Suprabhat Dharti Dhora Ri","description":"","imagepath":"/images/albums/suprabhat_dharti_dhora_ri/10.jpg" },
+                    { "name":"Suprabhat Dharti Dhora Ri","description":"","imagepath":"/images/albums/suprabhat_dharti_dhora_ri/11.jpg" },
+                    { "name":"Suprabhat Dharti Dhora Ri","description":"","imagepath":"/images/albums/suprabhat_dharti_dhora_ri/12.jpg" },
+                    { "name":"Suprabhat Dharti Dhora Ri","description":"","imagepath":"/images/albums/suprabhat_dharti_dhora_ri/13.jpg" },
+                    { "name":"Suprabhat Dharti Dhora Ri","description":"","imagepath":"/images/albums/suprabhat_dharti_dhora_ri/5.jpg" },
+                    { "name":"Suprabhat Dharti Dhora Ri","description":"","imagepath":"/images/albums/suprabhat_dharti_dhora_ri/15.jpg" },
+                    { "name":"Suprabhat Dharti Dhora Ri","description":"","imagepath":"/images/albums/suprabhat_dharti_dhora_ri/16.jpg" },
+                    { "name":"Suprabhat Dharti Dhora Ri","description":"","imagepath":"/images/albums/suprabhat_dharti_dhora_ri/17.jpg" },
+                    { "name":"Suprabhat Dharti Dhora Ri","description":"","imagepath":"/images/albums/suprabhat_dharti_dhora_ri/18.jpg" },
+                    { "name":"Suprabhat Dharti Dhora Ri","description":"","imagepath":"/images/albums/suprabhat_dharti_dhora_ri/19.jpg" },
+                    { "name":"Suprabhat Dharti Dhora Ri","description":"","imagepath":"/images/albums/suprabhat_dharti_dhora_ri/20.jpg" },
+                    { "name":"Suprabhat Dharti Dhora Ri","description":"","imagepath":"/images/albums/suprabhat_dharti_dhora_ri/21.jpg" },
+                    { "name":"Suprabhat Dharti Dhora Ri","description":"","imagepath":"/images/albums/suprabhat_dharti_dhora_ri/22.jpg" },
+                    { "name":"Suprabhat Dharti Dhora Ri","description":"","imagepath":"/images/albums/suprabhat_dharti_dhora_ri/23.jpg" },
+                    { "name":"Suprabhat Dharti Dhora Ri","description":"","imagepath":"/images/albums/suprabhat_dharti_dhora_ri/14.jpg" }
+                ]
+            },
+            {
+                "name":"Chai pe chutkule","description":"Chai pe chutkule","imagepath":"/images/albums/chai_pe_chutkule/12.jpg",
+                "images":[
+                    { "name":"Chai pe chutkule","description":"","imagepath":"/images/albums/chai_pe_chutkule/2.jpg" },
+                    { "name":"Chai pe chutkule","description":"","imagepath":"/images/albums/chai_pe_chutkule/3.jpg" },
+                    { "name":"Chai pe chutkule","description":"","imagepath":"/images/albums/chai_pe_chutkule/4.jpg" },
+                    { "name":"Chai pe chutkule","description":"","imagepath":"/images/albums/chai_pe_chutkule/1.jpg" },
+                    { "name":"Chai pe chutkule","description":"","imagepath":"/images/albums/chai_pe_chutkule/6.jpg" },
+                    { "name":"Chai pe chutkule","description":"","imagepath":"/images/albums/chai_pe_chutkule/7.jpg" },
+                    { "name":"Chai pe chutkule","description":"","imagepath":"/images/albums/chai_pe_chutkule/8.jpg" },
+                    { "name":"Chai pe chutkule","description":"","imagepath":"/images/albums/chai_pe_chutkule/9.jpg" },
+                    { "name":"Chai pe chutkule","description":"","imagepath":"/images/albums/chai_pe_chutkule/10.jpg" },
+                    { "name":"Chai pe chutkule","description":"","imagepath":"/images/albums/chai_pe_chutkule/11.jpg" },
+                    { "name":"Chai pe chutkule","description":"","imagepath":"/images/albums/chai_pe_chutkule/5.jpg" },
+                    { "name":"Chai pe chutkule","description":"","imagepath":"/images/albums/chai_pe_chutkule/12.jpg" }
+                ]
+            },
+            {
+                "name":"Sony max","description":"Sony max","imagepath":"/images/albums/sony_max/13.jpg",
+                "images":[
+                    { "name":"Sony max","description":"","imagepath":"/images/albums/sony_max/2.jpg" },
+                    { "name":"Sony max","description":"","imagepath":"/images/albums/sony_max/3.jpg" },
+                    { "name":"Sony max","description":"","imagepath":"/images/albums/sony_max/4.jpg" },
+                    { "name":"Sony max","description":"","imagepath":"/images/albums/sony_max/5.jpg" },
+                    { "name":"Sony max","description":"","imagepath":"/images/albums/sony_max/1.jpg" },
+                    { "name":"Sony max","description":"","imagepath":"/images/albums/sony_max/6.jpg" },
+                    { "name":"Sony max","description":"","imagepath":"/images/albums/sony_max/7.jpg" },
+                    { "name":"Sony max","description":"","imagepath":"/images/albums/sony_max/8.jpg" },
+                    { "name":"Sony max","description":"","imagepath":"/images/albums/sony_max/9.jpg" },
+                    { "name":"Sony max","description":"","imagepath":"/images/albums/sony_max/10.jpg" },
+                    { "name":"Sony max","description":"","imagepath":"/images/albums/sony_max/11.jpg" },
+                    { "name":"Sony max","description":"","imagepath":"/images/albums/sony_max/12.jpg" },
+                    { "name":"Sony max","description":"","imagepath":"/images/albums/sony_max/13.jpg" }
+                ]
+            },
+            {
+                "name":"Anchoring","description":"Anchoring","imagepath":"/images/albums/anchoring/5.jpg",
+                "images":[
+                    { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/2.jpg" },
+                    { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/3.jpg" },
+                    { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/4.jpg" },
+                    { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/1.jpg" },
+                    { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/6.jpg" },
+                    { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/7.jpg" },
+                    { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/8.jpg" },
+                    { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/9.jpg" },
+                    { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/10.jpg" },
+                    { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/11.jpg" },
+                    { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/12.jpg" },
+                    { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/5.jpg" }
+                ]
+            },
+            
+            {
+                "name":"Event hosting","description":"Event hosting","imagepath":"/images/albums/event_hosting/4.jpg",
+                "images":[
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/2.jpg" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/3.jpg" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/5.jpg" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/1.jpg" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/6.jpg" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/7.jpg" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/8.jpg" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/9.jpg" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/10.jpg" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/11.jpg" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/12.jpg" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/4.jpg" }
+                ]
+            },
+            {
+                "name":"Tv shows","description":"Tv shows","imagepath":"/images/albums/tv_shows/10.jpg",
+                "images":[
+                    { "name":"Tv shows","description":"","imagepath":"/images/albums/tv_shows/2.jpg" },
+                    { "name":"Tv shows","description":"","imagepath":"/images/albums/tv_shows/3.jpg" },
+                    { "name":"Tv shows","description":"","imagepath":"/images/albums/tv_shows/4.jpg" },
+                    { "name":"Tv shows","description":"","imagepath":"/images/albums/tv_shows/1.jpg" },
+                    { "name":"Tv shows","description":"","imagepath":"/images/albums/tv_shows/6.jpg" },
+                    { "name":"Tv shows","description":"","imagepath":"/images/albums/tv_shows/7.jpg" },
+                    { "name":"Tv shows","description":"","imagepath":"/images/albums/tv_shows/8.jpg" },
+                    { "name":"Tv shows","description":"","imagepath":"/images/albums/tv_shows/9.jpg" },
+                    { "name":"Tv shows","description":"","imagepath":"/images/albums/tv_shows/10.jpg" }
                 ]
             }
         ]
