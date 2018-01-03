@@ -301,20 +301,27 @@
             },
             
             {
-                "name":"Event hosting","description":"Event hosting","imagepath":"/images/albums/event_hosting/4.jpg",
+                "name":"Event hosting","description":"Event hosting","imagepath":"/images/albums/event_hosting/4.JPG",
                 "images":[
-                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/2.jpg" },
-                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/3.jpg" },
-                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/5.jpg" },
-                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/1.jpg" },
-                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/6.jpg" },
-                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/7.jpg" },
-                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/8.jpg" },
-                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/9.jpg" },
-                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/10.jpg" },
-                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/11.jpg" },
-                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/12.jpg" },
-                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/4.jpg" }
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/2.JPG" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/3.JPG" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/5.JPG" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/1.JPG" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/6.JPG" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/7.JPG" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/8.JPG" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/9.JPG" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/10.JPG" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/11.JPG" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/12.JPG" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/13.JPG" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/14.JPG" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/15.JPG" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/16.JPG" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/17.JPG" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/18.JPG" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/19.JPG" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/4.JPG" }
                 ]
             },
             {
