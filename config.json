@@ -120,13 +120,13 @@
                 ]
             },
             {
-                "name":"Modeling","description":"Modeling Images :)","imagepath":"/images/albums/modeling/6.jpg",
+                "name":"Modeling","description":"Modeling Images :)","imagepath":"/images/albums/modeling/8.jpg",
                 "images":[
                     { "name":"Modeling1","description":"","imagepath":"/images/albums/modeling/7.jpg" },
-                    { "name":"Modeling1","description":"","imagepath":"/images/albums/modeling/8.jpg" },
+                    { "name":"Modeling1","description":"","imagepath":"/images/albums/modeling/6.jpg" },
                     { "name":"Modeling1","description":"","imagepath":"/images/albums/modeling/9.jpg" },
                     { "name":"Modeling1","description":"","imagepath":"/images/albums/modeling/10.jpg" },
-                    { "name":"Modeling1","description":"","imagepath":"/images/albums/modeling/6.jpg" }
+                    { "name":"Modeling1","description":"","imagepath":"/images/albums/modeling/8.jpg" }
                 ]
             },
             {
@@ -285,17 +285,17 @@
             {
                 "name":"Anchoring","description":"Anchoring","imagepath":"/images/albums/anchoring/5.jpg",
                 "images":[
-                    { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/2.jpg" },
-                    { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/3.jpg" },
-                    { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/4.jpg" },
-                    { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/1.jpg" },
+                    { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/2.JPG" },
+                    { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/3.JPG" },
+                    { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/4.JPG" },
+                    { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/1.JPG" },
                     { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/6.jpg" },
-                    { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/7.jpg" },
+                    { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/7.JPG" },
                     { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/8.jpg" },
                     { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/9.jpg" },
                     { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/10.jpg" },
                     { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/11.jpg" },
-                    { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/12.jpg" },
+                    { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/13.jpg" },
                     { "name":"Anchoring","description":"","imagepath":"/images/albums/anchoring/5.jpg" }
                 ]
             },
@@ -320,7 +320,7 @@
                     { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/16.JPG" },
                     { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/17.JPG" },
                     { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/18.JPG" },
-                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/19.JPG" },
+                    { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/19.jpg" },
                     { "name":"Event hosting","description":"","imagepath":"/images/albums/event_hosting/4.JPG" }
                 ]
             },
