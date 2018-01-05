@@ -798,6 +798,16 @@ figure.effect-apollo p {
 	font-size: 16px;
 	padding-right: 10px;
 }
+.portfolio {
+	height: 50px;
+	right : -162px;
+	line-height: 50px;
+}
+.portfolioicon{
+	font-size: 16px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
 .aboutme p {
 	display: none;
 }
