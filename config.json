@@ -108,6 +108,31 @@
             { "name": "English", "percentage":"90" },
             { "name": "Hindi", "percentage":"100" }
         ],
+        "videos": [
+            {"youtube_id":"o2Hle83Plpo"},
+            {"youtube_id":"0PA3ImOBGnc"},
+            {"youtube_id":"fAR6o--T9sg"},
+            {"youtube_id":"Yccmj9nxTJM"},
+            {"youtube_id":"tKVS12QoLcw"},
+            {"youtube_id":"DosSAms1o5U"},
+            {"youtube_id":"kkAQx9-E2Vk"},
+            {"youtube_id":"lN6m1veoRcM"},
+            {"youtube_id":"TIKxV9-yd9M"},
+            {"youtube_id":"zP5QDBG9kzw"},
+            {"youtube_id":"bPukc0SoUws"},
+            {"youtube_id":"vRK2UG6N9sY"},
+            {"youtube_id":"0P3RWbbjoG4"},
+            {"youtube_id":"9Fvf5-E3dQ0"},
+            {"youtube_id":"ELdbCkhOPOQ"},
+            {"youtube_id":"cTH9P6PkYro"},
+            {"youtube_id":"CUn6f2lSqMw"},
+            {"youtube_id":"wBxdqLufDa0"},
+            {"youtube_id":"ZA2xbuUtQK0"},
+            {"youtube_id":"LueXz_iNhLo"},
+            {"youtube_id":"V5ulu5IhnGc"},
+            {"youtube_id":"XkVy9Wc6Nsw"},
+            {"youtube_id":"tAe2Mll_LU0"}
+        ],
         "albums":[
             {
                 "name":"Modeling","description":"Modeling Images :)","imagepath":"/images/albums/modeling/1.jpg",

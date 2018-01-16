@@ -60,6 +60,11 @@ $('.fancybox', '#portfolio').fancybox();
 
 });
 
+$(".video").fancybox({
+    type: "iframe",
+    // other API options
+})
+
 (function() {
 /*============= PreLoader ===========*/
 var images = [];
