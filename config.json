@@ -35,10 +35,10 @@
               
         ],
         "happyclient": [
-            { "name": "Cups of Coffee","icon":"fa fa-coffee","total":"3256"},
-            { "name": "Hours Worked","icon":"fa fa-clock-o","total":"5832"},
-            { "name": "Projects Done","icon":"fa fa-trophy","total":"2562"},
-            { "name": "Happy Clients","icon":"fa fa-smile-o","total":"345"}
+            { "name": "Cups of Coffee","icon":"fa fa-coffee","total":"3286"},
+            { "name": "Hours Worked","icon":"fa fa-clock-o","total":"15832"},
+            { "name": "Projects Done","icon":"fa fa-trophy","total":"2856"},
+            { "name": "Happy Clients","icon":"fa fa-smile-o","total":"2410"}
         ],
         "social": [
             { "name": "Email","icon":"fa fa-envelope","url": "mailto:actortarunvyas@gmail.com" },
