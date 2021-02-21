@@ -14,7 +14,7 @@
             "fname" :"Tarun",
             "lname":"Vyas",
             "description_small": "Tarun Vyas (born 15 October) is an Indian actor and Tv anchor. He is an alumnus of Rajasthan University Drama Department, Jaipur.",
-            "description": "Tarun has appeared in critically and commercially successful Hindi films 'Shudh desi romance'. Before acting in film industry, he has apperaed in tv serials like santoshi ma &TV, Collector Saab Zee TV and many others, he began his film career in 2011, with Voice dubbing artist position in bollywood with successful films such as Hum Hai rahi Car k, Pal chin, Kya super cool hai hum, Joker, Raaz 3, Jism2, Wasseypur, Ferrari ki sawaari, Dabang-2, Krish 3, Boss, Yeh jawani hai deewani, Jai Ho. Vyas is mimic voice of Bollywood actor Akshay kumar. Vyas was radio jockey for Fm radio stations like Radio Mirchi,Big Fm,All india Radio.",
+            "description": "Tarun has appeared in critically and commercially successful Hindi films 'Shudh desi romance'. Before acting in film industry, he has apperaed in tv serials like santoshi ma &TV, Collector Saab Zee TV and many others, he began his film career in 2011, with Voice dubbing artist position in bollywood with successful films such as Hum Hai rahi Car k, Pal chin, Kya super cool hai hum, Joker, Raaz 3, Jism2, Wasseypur, Ferrari ki sawaari, Dabang-2, Krish 3, Boss, Yeh jawani hai deewani, Jai Ho and many others. Vyas is mimic voice of Bollywood actor Akshay kumar. Vyas was radio jockey for Fm radio stations like Radio Mirchi,Big Fm,All india Radio. Now vyas working as youtuber also with his channels - BV KA TV Bollywood Biography channel, and he is mentore for new talent of voice and act, training people online free of cost on Youtube channel - Speech & Act Classes, few other youtube channels are  TV KA TV-Devotional, Chacha hindustani-comedy, av ka tv - Children short films, bv ki mini kitchen for minature food. ",
             "contact_number": "(+91) 8769000600",
             "email": "hello@tarunvyas.com",
             "resume": "/images/profile/avatar.jpg",
@@ -24,21 +24,22 @@
             "address": "Mumbai, India"
         },
         "skills": [
-            { "name":"Acting","percentage":"80"},
-            { "name":"Anchor","percentage":"75"},
-            { "name":"Radio Jocky","percentage":"50"},
-            { "name":"Voice Dubbing","percentage":"70"},
-            { "name":"Sound Design","percentage":"60"},
-            { "name":"Photography","percentage":"50"},
-            { "name":"Martial Art","percentage":"70"},
-            { "name":"Guitar Player","percentage":"50"}
+            { "name":"Acting","percentage":"100"},
+            { "name":"Story Telling","percentage":"80"},
+            { "name":"Anchoring","percentage":"75"},
+            { "name":"Radio Jockying","percentage":"75"},
+            { "name":"Voice Dubbing","percentage":"90"},
+            { "name":"Sound Designing","percentage":"100"},
+            { "name":"Direction","percentage":"90"},
+            { "name":"Martial Art","percentage":"75"},
+            { "name":"Guitar Player","percentage":"70"}
               
         ],
         "happyclient": [
-            { "name": "Cups of Coffee","icon":"fa fa-coffee","total":"3286"},
-            { "name": "Hours Worked","icon":"fa fa-clock-o","total":"15832"},
-            { "name": "Projects Done","icon":"fa fa-trophy","total":"2856"},
-            { "name": "Happy Clients","icon":"fa fa-smile-o","total":"2410"}
+            { "name": "Cups of Coffee","icon":"fa fa-coffee","total":"15000"},
+            { "name": "Hours Worked","icon":"fa fa-clock-o","total":"35832"},
+            { "name": "Projects Done","icon":"fa fa-trophy","total":"8435"},
+            { "name": "Happy Clients","icon":"fa fa-smile-o","total":"8435"}
         ],
         "social": [
             { "name": "Email","icon":"fa fa-envelope","url": "mailto:actortarunvyas@gmail.com" },
@@ -51,8 +52,13 @@
         "education": [
             { 
                 "name": "Master in Dramatics (M.A)",
-                "from": "Rajasthan University",
-                "duration":"Year 2017" 
+                "from": "Drama Deptt,Rajasthan University",
+                "duration":"Year 2019" 
+            },
+            { 
+                "name": "Certified Voice Training by Air",
+                "from": "All India Radio",
+                "duration":"Year 2004" 
             },
             { 
                 "name": "Diploma in Mass Communication(Electronic media)",
@@ -63,6 +69,11 @@
                 "name": "Master in Commerce-ABST (M.Com)",
                 "from": "Rajasthan University",
                 "duration":"Year 2000" 
+            },
+            { 
+                "name": "bachelor in Commerce (B.Com)",
+                "from": "Rajasthan University",
+                "duration":"Year 1998" 
             }
         ],
         "experience": [
