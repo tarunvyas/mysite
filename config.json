@@ -170,7 +170,7 @@
         ],
         "albums":[
             {
-                "name":"Modeling","description":"Modeling Images :)","imagepath":"/images/albums/modeling/1.jpg",
+                "name":"Modeling - 1","description":"Modeling Images :)","imagepath":"/images/albums/modeling/1.jpg",
                 "images":[
                     { "name":"Modeling","description":"","imagepath":"/images/albums/modeling/5.jpg" },
                     { "name":"Modeling","description":"","imagepath":"/images/albums/modeling/2.jpg" },
@@ -180,7 +180,7 @@
                 ]
             },
             {
-                "name":"Modeling","description":"Modeling Images :)","imagepath":"/images/albums/modeling/8.jpg",
+                "name":"Modeling - 2","description":"Modeling Images :)","imagepath":"/images/albums/modeling/8.jpg",
                 "images":[
                     { "name":"Modeling1","description":"","imagepath":"/images/albums/modeling/7.jpg" },
                     { "name":"Modeling1","description":"","imagepath":"/images/albums/modeling/6.jpg" },
@@ -190,7 +190,7 @@
                 ]
             },
             {
-                "name":"Modeling","description":"Modeling Images :)","imagepath":"/images/albums/modeling/14.jpg",
+                "name":"Modeling - 3","description":"Modeling Images :)","imagepath":"/images/albums/modeling/14.jpg",
                 "images":[
                     { "name":"Modeling2","description":"","imagepath":"/images/albums/modeling/11.jpg" },
                     { "name":"Modeling2","description":"","imagepath":"/images/albums/modeling/12.jpg" },
@@ -200,7 +200,7 @@
                 ]
             },
             {
-                "name":"Modeling","description":"Modeling Images :)","imagepath":"/images/albums/modeling/7.jpg",
+                "name":"Modeling - 4","description":"Modeling Images :)","imagepath":"/images/albums/modeling/7.jpg",
                 "images":[
                     { "name":"Modeling3","description":"","imagepath":"/images/albums/modeling/16.jpg" },
                     { "name":"Modeling3","description":"","imagepath":"/images/albums/modeling/17.jpg" },
@@ -210,7 +210,7 @@
                 ]
             },
             {
-                "name":"Modeling","description":"Modeling Images :)","imagepath":"/images/albums/modeling/9.jpg",
+                "name":"Modeling - 5","description":"Modeling Images :)","imagepath":"/images/albums/modeling/9.jpg",
                 "images":[
                     { "name":"Modeling4","description":"","imagepath":"/images/albums/modeling/20.jpg" },
                     { "name":"Modeling4","description":"","imagepath":"/images/albums/modeling/21.jpg" },
@@ -220,7 +220,7 @@
                 ]
             },
             {
-                "name":"Modeling","description":"Modeling Images :)","imagepath":"/images/albums/modeling/15.jpg",
+                "name":"Modeling - 6","description":"Modeling Images :)","imagepath":"/images/albums/modeling/15.jpg",
                 "images":[
                     { "name":"Modeling5","description":"","imagepath":"/images/albums/modeling/24.jpg" },
                     { "name":"Modeling5","description":"","imagepath":"/images/albums/modeling/25.jpg" },
