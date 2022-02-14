@@ -401,7 +401,7 @@
                     { "name":"Tv shows","description":"","imagepath":"/images/albums/tv_shows/7.jpg" },
                     { "name":"Tv shows","description":"","imagepath":"/images/albums/tv_shows/8.jpg" },
                     { "name":"Tv shows","description":"","imagepath":"/images/albums/tv_shows/9.jpg" },
-                     { "name":"Tv shows","description":"","imagepath":"/images/albums/tv_shows/10.jpg" },
+                    { "name":"Tv shows","description":"","imagepath":"/images/albums/tv_shows/10.jpg" },
                     { "name":"Tv shows","description":"","imagepath":"/images/albums/tv_shows/11.jpg" }
                 ]
             }
