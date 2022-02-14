@@ -64,10 +64,10 @@
                     <a href="#portfolio" class="hvr-sweep-to-left">Portfolio</a>
                   </li>
                   <li>
-                    <a href="#resume" class="hvr-sweep-to-left">My resume</a>
+                    <a href="#video" class="hvr-sweep-to-left">My Videos</a>
                   </li>
                   <li>
-                    <a href="#video" class="hvr-sweep-to-left">My Videos</a>
+                    <a href="#resume" class="hvr-sweep-to-left">My resume</a>
                   </li>
                 </ul>
               </div>
@@ -100,14 +100,6 @@
             </div>
             {{ partial "portfolio.html" . }}
           </section>
-          <section id="resume">
-            <h2>My Resume</h2>
-            <div class="row">
-                {{ partial "education.html" . }}
-                {{ partial "experience.html" . }}
-            </div>
-          </section>
-          <div class="clearfix"></div>
           <section id="video">
             <h2>My Videos</h2>
             <div class="row dummy-pois">
@@ -118,6 +110,15 @@
               </div>
             </div>
           </section>
+          <section id="resume">
+            <h2>My Resume</h2>
+            <div class="row">
+                {{ partial "education.html" . }}
+                {{ partial "experience.html" . }}
+            </div>
+          </section>
+          <div class="clearfix"></div>
+          
         </div>
         <!-- /page-inner -->
       </div>
