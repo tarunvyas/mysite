@@ -25,14 +25,14 @@
         },
         "skills": [
             { "name":"Acting","percentage":"100"},
-            { "name":"Story Telling","percentage":"80"},
-            { "name":"Anchoring","percentage":"75"},
-            { "name":"Radio Jockying","percentage":"75"},
-            { "name":"Voice Dubbing","percentage":"90"},
+            { "name":"Story Telling","percentage":"100"},
+            { "name":"Anchoring","percentage":"100"},
+            { "name":"Radio Jockying","percentage":"100"},
+            { "name":"Voice Dubbing","percentage":"100"},
             { "name":"Sound Designing","percentage":"100"},
-            { "name":"Direction","percentage":"90"},
-            { "name":"Martial Art","percentage":"75"},
-            { "name":"Guitar Player","percentage":"70"}
+            { "name":"Direction","percentage":"80"},
+            { "name":"Martial Art","percentage":"70"},
+            { "name":"Guitar Player","percentage":"60"}
               
         ],
         "happyclient": [
@@ -117,7 +117,8 @@
         ],
         "languages": [
             { "name": "English", "percentage":"90" },
-            { "name": "Hindi", "percentage":"100" }
+            { "name": "Hindi", "percentage":"100" },
+            { "name": "Rajasthani", "percentage":"100" }
         ],
         "videos": [
             {"youtube_id":"so84R7EJlyo"},
